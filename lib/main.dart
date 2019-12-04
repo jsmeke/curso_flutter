@@ -9,6 +9,9 @@ class MyApp extends StatelessWidget {
       title: 'Curso de Flutter',
       home: Center(
           child: Scaffold(
+        appBar: AppBar(
+          title: Text('Primera app'),
+        ),
         body: Center(
           child: Text('Bienvenidos al curso!'),
         ),
