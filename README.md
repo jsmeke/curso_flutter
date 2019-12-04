@@ -1,6 +1,6 @@
 # curso_flutter
 
-A new Flutter application.
+Punto de partida del curso de Flutter
 
 ## Getting Started
 
